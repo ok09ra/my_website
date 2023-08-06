@@ -4,7 +4,7 @@
         <ul>
             <li><NuxtLink to="/#top">Top</NuxtLink></li>
             <li><NuxtLink to="/#history">History</NuxtLink></li>
-            <li><NuxtLink to="/#works">works</NuxtLink></li>
+            <li><NuxtLink to="/#works">Works</NuxtLink></li>
             <li><NuxtLink to="/#works">Contact</NuxtLink></li>
         </ul>
     </div>
