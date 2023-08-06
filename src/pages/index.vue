@@ -4,7 +4,7 @@
             <h1>Okuda Sota </h1>
             <div>
                 <p>A Graduate Student at Waseda University.</p>
-                <p>Majoring Synthetic Biology at <a href="https://www.f.waseda.jp/kiga/">Kiga Lab.</a></p>
+                <p>Majoring Synthetic Biology at <a href="https://www.f.waseda.jp/kiga/">Kiga laboratory</a>, Tokyo Japan</p>
                 <div class="sub_section">
                     <h2>[a] Research Interests</h2>
                     <div>
