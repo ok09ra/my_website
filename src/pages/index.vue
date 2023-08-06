@@ -129,7 +129,7 @@
                 </div>
 
                 <div class="sub_section">
-                    <h2>[e] Achievements/Certifications </h2>
+                    <h2>[e] Achievements/ Certifications</h2>
                     <div>
                         <table>
                             <tr>
