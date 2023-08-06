@@ -1,7 +1,8 @@
 <template>
   <div>
-    <OrganismsTheHeader />
-    <slot />
-    <OrganismsTheFooter />
+    <TemplatesBackBone>
+        <OrganismsHeader />
+          <slot />
+    </TemplatesBackBone>
   </div>
 </template>
