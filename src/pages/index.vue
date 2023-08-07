@@ -11,7 +11,7 @@
                         <ul>
                             <li>[a0] Synthetic Biology (Gene Regulatory networks, Multicelluler system, Quorum sensing, Build a Cell)</li>
                             <li>[a1] Protein Engineering (Generative AI for Protein Designing, Evolutionary Molecular Engineering)</li>
-                            <li>[a2] Alife (cell simulations with flexible scales)</li>
+                            <li>[a2] Alife (Cell Simulations with Flexible Scales)</li>
                             <li>[a3] Computer Science (Machine Learning, Deep Learning, Generative AI, Multi-Agent Systems, Cryptography)</li>
                             <li>[a4] Cyber/Bio Security (Appropriate handling of biometric information, Defending Against Genetic Engineering Misuse)</li>
                         </ul>
@@ -252,8 +252,9 @@
             <ul>
                 <li>E-mail(personal): okudasota[at]gmail.com ([at]->@)</li>
                 <li>E-mail(University): okudasota[at]moegi.waseda.jp ([at]->@)</li>
-                <li>X <a href="https://twitter.com/EnOkud">@EnOkud</a></li>
-                <li>LinkedIn <a href="https://www.linkedin.com/in/%E5%AE%97%E5%A4%AA-%E5%A5%A5%E7%94%B0-4a897620a/">Sota Okuda</a></li>
+                <li>X: <a href="https://twitter.com/EnOkud">@EnOkud</a></li>
+                <li>GitHub: <a href="https://github.com/ok09ra">ok09ra</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/%E5%AE%97%E5%A4%AA-%E5%A5%A5%E7%94%B0-4a897620a/">Sota Okuda</a></li>
             </ul>
         </div>
     </div>
