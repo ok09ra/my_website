@@ -2,8 +2,8 @@
     <div>
         <p>Created By Sota Okuda July 2023</p>
         <p>
-            credit<br>
-            Here are the ideas I used to create these pages below.<br>
+            Credit<br>
+            Here are the ideas I used to create this page.<br>
             ankitsultana researcher &lt;<a href="https://github.com/ankitsultana/researcher">https://github.com/ankitsultana/researcher</a>&gt;<br>
             Website of Katsuya Ito &lt;<a href="http://katsuyaito.github.io">http://katsuyaito.github.io</a>&gt;
         </p>
