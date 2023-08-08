@@ -12,6 +12,7 @@
 
 <style scoped>
     p{
+        font-size:0.5rem;
         text-align: center;
         font-family: "Menlo";
         color: #4a4a4a;
