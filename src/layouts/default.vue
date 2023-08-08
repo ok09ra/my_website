@@ -3,6 +3,7 @@
     <TemplatesBackBone>
         <OrganismsHeader />
           <slot />
+        <OrganismsFooter />
     </TemplatesBackBone>
   </div>
 </template>
