@@ -236,7 +236,7 @@
                 </div>
 
                 <div class="sub_section">
-                    <h2>[h] Revative Articles</h2>
+                    <h2>[h] Relative Articles</h2>
                     <div>
                         <ul>
                             <li>[h0] TOKTO HEADLINE, <a href="https://www.tokyoheadline.com/612769/">経産省・浅野氏「変な校則は子どもたちを育むいい題材」SDGs学習カリキュラムを語る</a>, 2022.03.29 Vol.Web Original</li>
