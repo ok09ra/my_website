@@ -19,7 +19,7 @@
 
     div{
         position:relative;
-        border-bottom: solid 2px #b94047;
+        border-bottom: solid 1.5px #b94047;
     }
     ul{
         display:flex;

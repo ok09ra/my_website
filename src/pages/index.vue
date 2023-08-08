@@ -270,7 +270,7 @@
     .biggest_section{
         margin: 1rem;
         position:relative;
-        border-bottom: solid 1px #8b8b8b;
+        border-bottom: solid 1px #d5d5d5;
     }
 
     .sub_section{
