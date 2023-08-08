@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="biggest_section" id="top">
-            <h1>Okuda Sota </h1>
+            <h1>Sota Okuda 奥田宗太</h1>
             <div>
                 <p>A Graduate Student at <a href="https://www.waseda.jp/top/">Waseda University</a>.</p>
                 <p>Majoring in Synthetic Biology at <a href="https://www.f.waseda.jp/kiga/">Kiga laboratory</a>, Tokyo Japan</p>
