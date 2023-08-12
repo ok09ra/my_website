@@ -194,7 +194,7 @@
                                 <th>Number</th>
                                 <th>Start</th>
                                 <th>End</th>
-                                <th>School</th>
+                                <th>Detail</th>
                             </tr>
                             <tr>
                                 <th>[f0]</th>
@@ -224,6 +224,7 @@
                     </div>
                 </div>
 
+
                 <div class="sub_section">
                     <h2>[g] Publications and Conference Presentations</h2>
                     <div>
@@ -242,6 +243,44 @@
                             <li>[h0] TOKTO HEADLINE, <a href="https://www.tokyoheadline.com/612769/">経産省・浅野氏「変な校則は子どもたちを育むいい題材」SDGs学習カリキュラムを語る</a>, 2022.03.29 Vol.Web Original</li>
                             <li>[h1] 毎日新聞, <a href="https://mainichi.jp/articles/20210817/ddm/013/040/035000c">SDGsを子どもに伝える</a>, 2021年 8月 17日 朝刊</li>
                         </ul>
+                    </div>
+                </div>
+
+                <div class="sub_section">
+                    <h2>[i] Teaching Assistants</h2>
+                    <div>
+                        <table>
+                            <tr>
+                                <th>Number</th>
+                                <th>Semester</th>
+                                <th>Detail </th>
+                            </tr>
+                            <tr>
+                                <th>[i0]</th>
+                                <th>Spring 2020</th>
+                                <th>Artificial Intelligence and Business Model Creation alpha (Dr. Satoshi Okuda / Prof. Toru Asahi at Waseda University)</th>
+                            </tr>
+                            <tr>
+                                <th>[i1]</th>
+                                <th>Spring 2021</th>
+                                <th>Logical Communication (Prof. Toru Asahi at Waseda Univerity)</th>
+                            </tr>
+                            <tr>
+                                <th>[g2]</th>
+                                <th>Spring 2022</th>
+                                <th>Synthetic Biology (Prof. Daisuke Kiga at Waseda Univerity)</th>
+                            </tr>
+                            <tr>
+                                <th>[g3]</th>
+                                <th>Spring 2023</th>
+                                <th>Synthetic Biology (Prof. Daisuke Kiga at Waseda Univerity)</th>
+                            </tr>
+                            <tr>
+                                <th>[g4]</th>
+                                <th>Spring 2023</th>
+                                <th>Research Project A (Instructor & Curriculum Development)(Prof. Daisuke Kiga at Waseda Univerity)</th>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
