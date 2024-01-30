@@ -6,5 +6,5 @@ export default defineNuxtConfig({
     srcDir: 'src',
     app: {
       baseURL: '/my_website/', // ここはリポジトリ名にする(前後のスラッシュは必須)
-    },
+    }
   });
