@@ -20,7 +20,7 @@
                 <div class="sub_section">
                     <h2>[b] My Motivations</h2>
                     <div>
-                        <h2><strong>- Building up Complex intellects From Scratch with Wetware Engineering drived by Computer Science -</strong></h2>
+                        <h2><strong>- Building up Complex intellects From Scratch with Wetware Engineering drived by Computer Science and -</strong></h2>
                         <p>
                             My dream is build up autonomous decision-making agents from scratch. <br>
                             Humans have been trying to create intellects from ancient era. Especially since the invention of computers, the development of automata and artificial intelligence has become a reality and has excited us. Meanwhile, the line between intellect and non-intellect has become blurred.<br>
@@ -72,7 +72,7 @@
                                 <th>[d0]</th>
                                 <th>April 2013</th>
                                 <th>March 2016</th>
-                                <th><a href="https://www.fzk.shibaura-it.ac.jp">Shibaura Institute Of Technology Jonior High School</a></th>
+                                <th><a href="https://www.fzk.shibaura-it.ac.jp">Shibaura Institute Of Technology Junior High School</a></th>
                             </tr>
                             <tr>
                                 <th>[d1]</th>
